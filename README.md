@@ -1,1 +1,1 @@
-This is just a very basic countdown timers using the setTimeout() function
+This is just a very basic JS countdown using the setTimeout() function
